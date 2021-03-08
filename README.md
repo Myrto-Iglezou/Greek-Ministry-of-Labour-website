@@ -108,4 +108,4 @@ Password for both of them:12345 <br>
 
 --- 
 
-© Myrto Igglezou && Konstantinos Nikoletos
+© Myrto Iglezou && Konstantinos Nikoletos
